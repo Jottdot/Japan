@@ -20,13 +20,19 @@ Zur Einordnung Ihres Zeitraums: Die Osterferien 2027 liegen in den meisten Bunde
 
 ## 1. Direktflüge Frankfurt → Tokio (empfohlen für Familie mit Kindern)
 
-| Airline | Ziel-Flughafen | Flugzeit (einfach) | Frequenz | Richtpreis Economy Return (Erw.) |
-|---|---|---|---|---|
-| **ANA** | Tokio-Haneda (HND) | ca. 12:40 h | ~14x/Woche | ab ca. 1.450–1.650 € (außerhalb Peak) |
-| **Lufthansa** | Tokio-Narita/Haneda (NRT/HND) | ca. 12:40 h | 7 nonstop + weitere mit Umstieg/Woche | ab ca. 1.450–1.650 € (außerhalb Peak) |
-| **JAL** | Tokio-Haneda (HND) | ca. 12:40 h | mehrmals/Woche | ähnliches Niveau |
+Wichtig: Hin- und Rückflug sind **nicht gleich lang**. Wegen des Jetstreams (Rückenwind Richtung Osten, Gegenwind Richtung Westen) dauert der Rückflug ca. 1,5–2,5 Stunden länger als der Hinflug.
 
-**Reisezeit gesamt (Tür-zu-Tür mit Check-in etc.): ca. 15–16 Stunden – deutlich unter Ihrem 40-Stunden-Limit.**
+| Airline | Ziel-Flughafen | **Hinflug** FRA → Tokio (ca. 20.03.27) | **Rückflug** Tokio → FRA (ca. 03./04.04.27) | Frequenz | Richtpreis Economy Return (Erw.) |
+|---|---|---|---|---|---|
+| **ANA** | Tokio-Haneda (HND) | ca. 12:40 h | ca. 14:45–14:50 h | ~14x/Woche | ab ca. 1.450–1.650 € (außerhalb Peak) |
+| **Lufthansa** | Tokio-Narita/Haneda (NRT/HND) | ca. 12:40 h | ca. 14:15–14:50 h | 7 nonstop + weitere mit Umstieg/Woche | ab ca. 1.450–1.650 € (außerhalb Peak) |
+| **JAL** | Tokio-Haneda (HND) | ca. 12:40 h | ca. 14:15–14:50 h | mehrmals/Woche | ähnliches Niveau |
+
+**Beide Teilstrecken einzeln betrachtet – jeweils Tür-zu-Tür mit Check-in etc.:**
+- Hinflug (20.3.2027): ca. 15–16 Stunden gesamt
+- Rückflug (3./4.4.2027): ca. 17–18 Stunden gesamt
+
+→ **Beide Richtungen liegen deutlich unter Ihrem 40-Stunden-Limit pro Teilstrecke.**
 
 Direktflüge sind mit Kindern (7 & 11) klar zu empfehlen: kein Umsteigestress, keine verpassten Anschlüsse, feste Bordunterhaltung. Für die Osterferien/Kirschblüte müssen Sie hier aber mit **Preisen eher am oberen Ende** rechnen (siehe oben) – ggf. auch darüber, da Hochsaison.
 
@@ -36,16 +42,16 @@ Direktflüge sind mit Kindern (7 & 11) klar zu empfehlen: kein Umsteigestress, k
 
 Ein Stopp kann deutlich günstiger sein und bleibt mit Kindern noch gut machbar, wenn der Umstieg nicht zu knapp und nicht zu lang ist (Richtwert: 1,5–4 Stunden).
 
-| Route (Beispiel) | Airline | Ca. Gesamtreisezeit | Hinweis |
-|---|---|---|---|
-| FRA → Helsinki → Tokio (NRT) | **Finnair** | ca. 14–18 h | Kurzer, nördlicher Umweg über Skandinavien – einer der zeiteffizientesten Umsteigeflüge nach Japan |
-| FRA → Istanbul → Tokio | **Turkish Airlines** | ca. 17–20 h | Oft günstiger als Direktflüge, gutes Kinderprogramm an Bord |
-| FRA → Doha → Tokio | **Qatar Airways** | ca. 17–20 h | Sehr gute Bewertungen für Familien, moderner Flughafen Doha für Umstieg |
-| FRA → Seoul (Incheon) → Tokio/Osaka | **Korean Air** | ca. 17–20 h | Gute Option, auch Richtung Osaka |
-| FRA → Warschau → Seoul → weiter | **LOT** | ca. 20 h+ | Meist güsntigste, aber mit 2 Umstiegen für Kinder anstrengender |
-| FRA → Dubai → Tokio/Osaka | **Emirates** | ca. 18–22 h | Sehr kinderfreundliches Bordunterhaltungsprogramm |
+| Route (Beispiel) | Airline | Ca. Reisezeit **Hinflug** (20.3.) | Ca. Reisezeit **Rückflug** (3./4.4.) | Hinweis |
+|---|---|---|---|---|
+| FRA → Helsinki → Tokio (NRT) | **Finnair** | ca. 14–16 h | ca. 16–18 h | Kurzer, nördlicher Umweg über Skandinavien – einer der zeiteffizientesten Umsteigeflüge nach Japan |
+| FRA → Istanbul → Tokio | **Turkish Airlines** | ca. 16–18 h | ca. 18–20 h | Oft günstiger als Direktflüge, gutes Kinderprogramm an Bord |
+| FRA → Doha → Tokio | **Qatar Airways** | ca. 16–18 h | ca. 18–20 h | Sehr gute Bewertungen für Familien, moderner Flughafen Doha für Umstieg |
+| FRA → Seoul (Incheon) → Tokio/Osaka | **Korean Air** | ca. 16–18 h | ca. 18–20 h | Gute Option, auch Richtung Osaka |
+| FRA → Warschau → Seoul → weiter | **LOT** | ca. 18–20 h | ca. 20–22 h | Meist güsntigste, aber mit 2 Umstiegen für Kinder anstrengender |
+| FRA → Dubai → Tokio/Osaka | **Emirates** | ca. 17–20 h | ca. 19–22 h | Sehr kinderfreundliches Bordunterhaltungsprogramm |
 
-**Alle diese Optionen liegen weit unter der 40-Stunden-Grenze.** Das Kriterium "unter 40h" schließt praktisch nur absolute Billig-Routings mit sehr langen Zwischenstopps (20h+ Layover) aus, die auf dieser Strecke ohnehin unüblich sind – Sie haben hier also mehr Auswahl als gedacht, auch bei 1–2 Umstiegen.
+**Auch hier gilt für beide Richtungen: weit unter der 40-Stunden-Grenze pro Teilstrecke.** Das Kriterium "unter 40h" schließt praktisch nur absolute Billig-Routings mit sehr langen Zwischenstopps (20h+ Layover) aus, die auf dieser Strecke ohnehin unüblich sind – Sie haben hier also mehr Auswahl als gedacht, auch bei 1–2 Umstiegen. Rückwege sind wie beim Direktflug etwas länger als der Hinweg (Gegenwind/Jetstream).
 
 **Praxistipp mit Kindern:** Ein Umstieg ist mit 7 und 11 Jahren gut machbar, zwei Umstiege würde ich auf dem Hinweg eher vermeiden (lange Gesamtreisezeit, Übermüdung).
 
@@ -53,7 +59,12 @@ Ein Stopp kann deutlich günstiger sein und bleibt mit Kindern noch gut machbar,
 
 ## 3. Osaka statt/zusätzlich zu Tokio
 
-Es gibt **keinen Direktflug** Frankfurt–Osaka (Kansai, KIX). Verbindungen laufen z. B. über Dubai (Emirates), Hongkong (Cathay Pacific) oder München/Umstieg. Gesamtreisezeit ca. 14–24 h – ebenfalls unproblematisch fürs 40h-Limit.
+Es gibt **keinen Direktflug** Frankfurt–Osaka (Kansai, KIX). Verbindungen laufen z. B. über Dubai (Emirates), Hongkong (Cathay Pacific) oder München/Umstieg.
+
+- **Hinflug FRA → KIX:** ca. 14–20 h Gesamtreisezeit (je nach Umsteigeflughafen und Wartezeit)
+- **Rückflug KIX → FRA:** ca. 15–24 h Gesamtreisezeit (z. B. Emirates via Dubai: ca. 13:20–17:45 h reine Flugzeit plus Umstieg)
+
+Beide Richtungen bleiben **klar unter der 40-Stunden-Grenze**.
 
 **Reisetipp:** Für eine Rundreise (z. B. Tokio → Kyoto/Osaka) lohnt sich oft ein **"Open Jaw"-Ticket**: Hinflug nach Tokio, Rückflug ab Osaka (oder umgekehrt). Das spart die Rückfahrt zum Ausgangspunkt und lässt sich gut mit dem Japan Rail Pass kombinieren. Preislich meist nur unwesentlich teurer als ein einfacher Return-Flug.
 
