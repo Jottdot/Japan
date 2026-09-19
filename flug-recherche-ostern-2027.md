@@ -78,15 +78,25 @@ Beide Richtungen bleiben **klar unter der 40-Stunden-Grenze**.
 
 ---
 
-## 5. Grobe Preisspanne für die ganze Familie (3 Personen, Economy, Return)
+## 5. Gesamtpreis-Tabelle – nur Optionen mit maximal einem Umstieg
 
-| Szenario | Ca. Gesamtpreis für 3 Pers. |
-|---|---|
-| Direktflug (ANA/LH/JAL), Ostern/Kirschblüte, früh gebucht | ca. 4.000–5.500 € |
-| 1 Umstieg (Finnair/Turkish/Qatar/Korean Air), früh gebucht | ca. 3.200–4.500 € |
-| Sehr günstig/spät gebucht, 1–2 Umstiege | kann auch deutlich teurer werden statt günstiger – Ostern ist Hochsaison |
+Basis: aktuelle Vergleichs-Tiefstpreise für die Strecke außerhalb der Spitzensaison (u. a. ANA/LH ab ca. 1.190–1.240 € Return, Finnair/Qatar/Turkish ab ca. 920–990 € Return), hochgerechnet auf Ostern/Kirschblüte (Faktor ca. 1,5–1,8, basierend auf einem konkret gefundenen April-Vergleichswert von Finnair ~2.050 €/Person). Kinderpreis = 75 % des Erwachsenenpreises.
 
-Diese Spannen basieren auf aktuellen (September 2026) Vergleichspreisen für die Strecke außerhalb der absoluten Spitzensaison; für Ihren konkreten Reisezeitraum (Kirschblüte/Ostern) sollten Sie eher am oberen Ende bis leicht darüber kalkulieren.
+| Option | Umstiege | Erwachsener (Return) | Kind, je (75 %) | **Familie gesamt (1 Erw. + 2 Kinder)** |
+|---|---|---|---|---|
+| ANA / Lufthansa / JAL – Direktflug | 0 | ca. 1.800–2.200 € | ca. 1.350–1.650 € | **ca. 4.500–5.500 €** |
+| Finnair via Helsinki | 1 | ca. 1.400–1.750 € | ca. 1.050–1.300 € | **ca. 3.500–4.350 €** |
+| Turkish Airlines via Istanbul | 1 | ca. 1.400–1.800 € | ca. 1.050–1.350 € | **ca. 3.500–4.500 €** |
+| Qatar Airways via Doha | 1 | ca. 1.400–1.800 € | ca. 1.050–1.350 € | **ca. 3.500–4.500 €** |
+| Korean Air via Seoul | 1 | ca. 1.450–1.850 € | ca. 1.100–1.400 € | **ca. 3.650–4.600 €** |
+| Emirates via Dubai | 1 | ca. 1.500–1.900 € | ca. 1.100–1.400 € | **ca. 3.700–4.700 €** |
+
+**Fazit für "maximal 1 Umstieg":**
+- **Günstigste realistische Variante:** Finnair via Helsinki, ca. **3.500–4.350 € für die ganze Familie** (kurzer, effizienter Umstieg, gut für Kinder geeignet)
+- **Bequemste Variante (Direktflug):** ANA/Lufthansa/JAL, ca. **4.500–5.500 € für die ganze Familie**
+- **Spannweite insgesamt (0 oder 1 Umstieg):** ca. **3.500 € bis 5.500 €** für 1 Erwachsene + 2 Kinder, Economy, Return
+
+Diese Werte sind Richtwerte auf Basis aktueller (September 2026) Marktpreise, hochgerechnet auf die Ostern/Kirschblüten-Hochsaison 2027 – für eine verbindliche Zahl bitte Preisalarm nutzen bzw. direkt bei den Airlines/OTAs mit exakten Daten und Personenzahl (1 Erwachsener, Kinder 7 & 11) anfragen.
 
 ---
 
